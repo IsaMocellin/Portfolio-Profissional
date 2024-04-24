@@ -1,0 +1,130 @@
+{
+  "name": "Isabela R Mocellin",
+  "photo": "",
+  "job": "Trainee Help-Desk na Agrotis",
+  "location": "Curitiba - PR",
+  "phone": "(41) 9 9532-1516",
+  "email": "belamocellin@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/css.png"
+      },
+      {
+        "name": "Java Script",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/react.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/python.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "MongoSQL",
+        "logo": "https://raw.githubusercontent.com/IsaMocellin/Portfolio-Profissional/main/data/imgs/mongosql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Agilidade",
+      "Dedicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Criatividade",
+      "Comunicação",
+      "Produtividade",
+      "Comprometimento com resultados",
+      "Facilidade em tarefas práticas"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Portfólio Simplificado usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/portfolio-simplificado",
+      "github": true
+    },
+    {
+      "name": "Página Web do Spider Verse usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/Spider-Verse",
+      "github": true
+    },
+    {
+      "name": "Página Web de Listagem de Pokemons usando HTML, CSS, JS e consultando uma API",
+      "url": "https://github.com/IsaMocellin/Pokedex-List",
+      "github": true
+    },
+    {
+      "name": "Projeto de análise de dados no Power BI",
+      "url": "https://github.com/IsaMocellin/Projeto-Power-BI-Analyst",
+      "github": true
+    },
+    {
+      "name": "Página Web de Jogo da Velha usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/Jogo-da-Velha",
+      "github": true
+    },
+    {
+      "name": "Página Web de Jogo da Cobrinha usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/snake-game",
+      "github": true
+    },
+    {
+      "name": "Página Web de um Pokedex usando HTML, CSS, JS e consultando uma API",
+      "url": "https://github.com/IsaMocellin/pokedex",
+      "github": true
+    },
+    {
+      "name": "Página Web de um Jogo de Pulo do Mario usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/Mario",
+      "github": true
+    },
+    {
+      "name": "Página Web de uma Calculadora usando HTML, CSS e JS",
+      "url": "https://github.com/IsaMocellin/calculator",
+      "github": true
+    },
+    {
+      "name": "Projeto de um Jogo de Black Jack usando Python",
+      "url": "https://github.com/IsaMocellin/Black-Jack",
+      "github": true
+    },
+    {
+      "name": "Projeto de um Jogo de War usando Python",
+      "url": "https://github.com/IsaMocellin/War-Card-Game-Auto",
+      "github": true
+    },
+    {
+      "name": "Projeto de um Jogo da Velha usando Python",
+      "url": "https://github.com/IsaMocellin/Tic_Tac_Toe",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Trainee Help-Desk na Agrotis Agroinformática S/A",
+      "period": "2023 - até o momento",
+      "description": "Atendimento e suporte técnico aos usuários dos softwares instalados pela empresa solucionando os problemas relatados para garantir o bom desemprenho dos programas"
+    }
+  ]
+}

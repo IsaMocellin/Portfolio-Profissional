@@ -1,0 +1,29 @@
+.languages{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.languages li{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 1rem;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.languages li::before{
+  content: '';
+  display: inline-block;
+  width: .75rem;
+  height: .75rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(../imagens/icons/visto.svg);
+  margin-right: .5rem;
+}
