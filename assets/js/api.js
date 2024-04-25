@@ -43,7 +43,7 @@ function updatePortfolio(profileData){
     const portfolio = document.getElementById('profile.portfolio')
     
     portfolio.innerHTML = profileData.portfolio.map(portfolio => `<li><h3 class="title github">${portfolio.name}</h3>
-    <a href="${portfolio.url}">${portfolio.url}</a>`).join('')
+    <a target="_blank" href="${portfolio.url}">${portfolio.url}</a>`).join('')
 }
 
 function updateProfessionalExperience(profileData){
