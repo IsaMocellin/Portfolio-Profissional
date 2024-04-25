@@ -21,13 +21,12 @@
 }
 
 .skills .personal ul{
-  display: flex;
-  flex-direction: row;
+  display: grid;
   justify-content: flex-start;
   align-items: center;
-  flex-wrap: wrap;
   margin: 0;
   padding: 0;
+  grid-template-columns: 1fr;
 }
 
 .skills .personal ul li{
@@ -39,5 +38,15 @@
   .skills{
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+  .skills .personal ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .skills .tools ul{
+    display: grid;
+    grid-template-columns: .5fr .5fr .5fr .5fr;
+    justify-items: center;
+    max-width: 70%;
   }
 }
